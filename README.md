@@ -11,10 +11,11 @@ Teclado controlado por gestos del pulgar con diseño cyberpunk y predicción de 
 
 ## 🛠 Instalación
 ```bash
-git clone https://github.com/tuusuario/teclado-arni.git
+git clone (https://github.com/arnimoreno/Chavote-Project/tree/main)
 cd teclado-arni
 pip install opencv-python mediapipe pygame nltk numpy
 python -m nltk.downloader cess_esp
+
 ▶️ Uso
 python main.py
 
@@ -46,4 +47,4 @@ Sin sonido: Reinstala pygame
 MIT License © 2023 [Arni Moreno Geronimo]
 
 📧 Contacto: arnimoreno21@gmail.com
-🔗 GitHub: @tuusuario
+🔗 GitHub: @arnimoreno
