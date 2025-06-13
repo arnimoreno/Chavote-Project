@@ -11,7 +11,7 @@ Teclado controlado por gestos del pulgar con diseño cyberpunk y predicción de 
 
 ## 🛠 Instalación
 ```bash
-git clone (https://github.com/arnimoreno/Chavote-Project/tree/main)
+git clone https://github.com/arnimoreno/Chavote-Project
 cd teclado-arni
 pip install opencv-python mediapipe pygame nltk numpy
 python -m nltk.downloader cess_esp
